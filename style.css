@@ -1,0 +1,57 @@
+/* Selector {
+    Proprerty :value;
+     
+} */
+
+*{
+   text-align: center;
+   color: rgb(14, 14, 63);
+   background-color: rgba(22, 178, 221, 0.6)
+   
+
+}
+
+
+a{
+    color : darkblue;
+    font-weight: bold;
+    font-size: large;
+    font-style: normal;
+    border: 50px black;
+
+}
+li{
+    color: yellow;
+}
+h2 ,p{
+    
+    font-size: 30px;
+    color : indigo;
+    border: 2.5px solid rgb(92, 27, 92);
+}
+p {
+    text-align: center;
+    color : rgb(12, 12, 12);
+    font-size: large;
+    font-weight: bold;
+    background-color: rgba(101, 146, 158, 0.6);
+    border:5px darkslateblue;
+    text-decoration: dashed;
+    font-family: 'Inria Serif', serif;
+    font-style: italic;
+    line-height: 40px;
+}
+
+ body {
+   background-image: url(mahabodhitemple.jpg);
+   background-size: cover;
+}
+h3{
+    color: black;
+    
+    text-transform: capitalize;
+}
+img{
+    float : right;
+    
+}
